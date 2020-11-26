@@ -10,13 +10,13 @@ The experimental setting is different from the paper.
 
 |No.|Name|Ref|
 |---|---|---|
-|1|PFN|https://www.biorxiv.org/content/10.1101/295964v2.full.pdf|
+|1|Prefrontal Cortex as a Meta-Reinforcement Learning System|https://www.biorxiv.org/content/10.1101/295964v2.full.pdf|
 
 - - -
 
 #### Today's art
 <div align="center">
-    <img src="https://github.com/LeejwUniverse/RL_Rainbow/blob/master/arts/The_young_painter(1972)_picasso.jpg" width="500">
+    <img src="https://github.com/LeejwUniverse/metaRL_PFN_Pytorch/blob/master/arts/Picasso_Massacre_in_korea.jpg" width="500">
 </div>
 
 <h3 align="center"> Pablo Picasso - Massacre in korea(1951) </h3>
